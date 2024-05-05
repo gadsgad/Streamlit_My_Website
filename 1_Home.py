@@ -24,7 +24,7 @@ col1, col2 = st.columns(2)
 
 with col1:
    st.markdown("#### Super Stores Sales")
-   st.image("P1_Dash 1.jpg")
+   # st.image("P1_Dash 1.jpg")
    # To link this picture to the Projects page to read more information...
    st.page_link("Pages/2_Projects.py", label="Read more ...")
 
