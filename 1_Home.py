@@ -26,7 +26,7 @@ with col1:
    st.markdown("#### Super Stores Sales")
    st.image("Pages\Assets\P1_Dash 1.jpg")
    # To link this picture to the Projects page to read more information...
-   st.page_link("Pages/2_Projects.py", label="Read more ...")
+   #st.page_link("Pages/2_Projects.py", label="Read more ...")
 
 with col2:
    st.markdown(" #### Bank Customer Churn Rate")
